@@ -1,4 +1,4 @@
- server:
+  server:
      port: ${PORT:8862}
    message: Configuracion de Local en el servidor levantado
    spring:
